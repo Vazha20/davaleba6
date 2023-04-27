@@ -3,6 +3,9 @@
     margin: 0;
     padding: 0;
 }
+#bodycolor{
+    background: #F0F0F0;
+}
 img{
     width: 100%;
 }
@@ -104,9 +107,15 @@ img{
 }
 .content_container input{
     Width: 271.72px;
-    Height: 42px;
-    background: #FFFFFF;
-    border: 1px solid #151515;
+    Height: 52px;
+    font-family: 'Neue Machina';
+    font-style: normal;   
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    color: #151515;
+    text-transform: capitalize;
 }
 #aboutus{
     margin-top: 246px;
@@ -145,7 +154,7 @@ img{
     font-family: 'Neue Machina';
     font-style: normal;
     font-weight: 800;
-    font-size: 14px;
+    font-size: 18px;
     line-height: 26px;
     text-align: center;
     text-transform: uppercase;
