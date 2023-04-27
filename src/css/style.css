@@ -1,0 +1,158 @@
+@import url(//db.onlinewebfonts.com/c/38d41072aa88a50711d4d50dd0d50f6b?family=Neue+Machina);
+*{
+    margin: 0;
+    padding: 0;
+}
+img{
+    width: 100%;
+}
+.container{
+    width: 1280px;
+    margin: 0 auto;
+    align-items: start;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+.justify-between{
+    justify-content: space-between;
+}
+.align-center{
+    align-items: center;
+}
+.nav_link{
+    list-style: none;
+    gap: 42px;
+    font-family: 'Neue Machina';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: black;
+    text-transform: capitalize;
+    margin-right: 220px;
+    margin-top: 49px;
+}
+.secondary_btn{
+    width: 145px;
+    height: 52px;
+    background: #F0F0F0;
+    font-family: 'Neue Machina';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    color: #151515;
+    text-transform: capitalize;
+    margin-top: 36px;
+}
+.primary_btn{
+    margin-left: 20px;
+    margin-right: 80px;
+    width: 145px;
+    height: 52px;
+    background-color: black;
+    font-family: 'Neue Machina';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: center;
+    color: #FFFFFF;
+    text-transform: capitalize;
+    margin-top: 36px;
+}
+.logo_container{
+    margin-left: 80px;
+    margin-top: 36px;
+}
+.col-6{
+    width: 50%;
+}
+.col-5{
+    width: 45%;
+}
+#banner{
+    margin-top: 80px;
+    margin-left: 80px;
+    margin-right: 80px;
+}
+.content_container h1{
+    font-family: 'Neue Machina';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 70px;
+    line-height: 80px;
+    letter-spacing: -4px;
+    color: #151515;
+    width: 699.68px;
+}
+.content_container p{
+    margin-top: 20px;
+    font-family: 'Neue Machina';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #151515;
+    width: 548.29px;
+}
+.content_container .primary_btn{
+    margin-top: 40px;
+}
+.content_container input{
+    Width: 271.72px;
+    Height: 42px;
+    background: #FFFFFF;
+    border: 1px solid #151515;
+}
+#aboutus{
+    margin-top: 246px;
+}
+.aboutus_container ul{
+    list-style-type: square;
+    font-family: 'Neue Machina';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    color: #151515;
+    margin-top: 34px;
+    margin-left: 20px;
+}
+.aboutus_container h3{
+    font-family: 'Neue Machina';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 58px;
+    letter-spacing: -3px;
+    color: #151515;
+    margin-top: 20px;
+}
+.aboutus_container p{
+    font-family: 'Neue Machina';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #151515;
+    margin-top: 44px;
+}
+.aboutus_container h2{
+    font-family: 'Neue Machina';
+    font-style: normal;
+    font-weight: 800;
+    font-size: 14px;
+    line-height: 26px;
+    text-align: center;
+    text-transform: uppercase;
+    color: #151515;
+    height: 36px;
+    width: 101.13px;
+    background: #F0F0F0;
+    border: 1px solid #151515;
+}
+
