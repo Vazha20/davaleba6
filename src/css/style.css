@@ -149,19 +149,59 @@ img{
     line-height: 26px;
     color: #151515;
     margin-top: 44px;
+}   
+#howitworks{
+    margin-top: 198px;
 }
-.aboutus_container h2{
+
+.headers_style{
+    background: #F0F0F0;
+    border: 1px solid #151515;
     font-family: 'Neue Machina';
     font-style: normal;
     font-weight: 800;
-    font-size: 18px;
+    font-size: 14px;
     line-height: 26px;
     text-align: center;
     text-transform: uppercase;
     color: #151515;
-    height: 36px;
-    width: 101.13px;
-    background: #F0F0F0;
-    border: 1px solid #151515;
 }
+.howitworks_container p{
+    margin-top: 20px;
+    font-family: 'Neue Machina';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 58px;
+    letter-spacing: -3px;
+    color: #151515;
+}
+#pricing{
+    margin-top: 200px;
+}
+.pricing_container h6{
+    font-family: 'Neue Machina';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 58px;
+    text-align: right;
+    letter-spacing: -3px;
+    color: #151515;
+}
+.pricing_container p{
+    font-family: 'Neue Machina';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    text-align: right;
+    color: #151515;
+    margin-top: 44px;
+}
+#faqs{
+    margin-top: 198px;
+}
+
+
 
