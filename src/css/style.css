@@ -4,7 +4,7 @@
     padding: 0;
 }
 #bodycolor{
-    background: #F0F0F0;
+    background: #72c7ff;
 }
 img{
     width: 100%;
@@ -118,7 +118,7 @@ img{
     text-transform: capitalize;
 }
 #aboutus{
-    margin-top: 246px;
+    margin-top: 180px;
 }
 .aboutus_container ul{
     list-style-type: square;
@@ -232,7 +232,7 @@ img{
     font-weight: 400;
     font-size: 20px;
     line-height: 28px;
-    
+    text-transform: capitalize;
 }
 
 
