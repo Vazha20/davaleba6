@@ -27,15 +27,21 @@ img{
 .nav_link{
     list-style: none;
     gap: 42px;
+    margin-right: 220px;
+    margin-top: 49px;
+}
+.nav_link li{
     font-family: 'Neue Machina';
     font-style: normal;
     font-weight: 400;
     font-size: 18px;
     line-height: 26px;
-    color: black;
     text-transform: capitalize;
-    margin-right: 220px;
-    margin-top: 49px;
+    border-bottom: #151515 5px solid;
+}
+.nav_link a{
+    text-decoration: none;
+    color:black;
 }
 .secondary_btn{
     width: 145px;
@@ -66,6 +72,10 @@ img{
     color: #FFFFFF;
     text-transform: capitalize;
     margin-top: 36px;
+}
+.primary_btn a{
+    text-decoration: none;
+    color: #FFFFFF;
 }
 .logo_container{
     margin-left: 80px;
@@ -233,6 +243,19 @@ img{
     font-size: 20px;
     line-height: 28px;
     text-transform: capitalize;
+}
+.regbar{
+    max-width: 400px;
+    width: 100%;
+    background: #ffffff;
+    padding: 60px;
+    border-radius: 50px;
+    margin-left: 30%;
+    margin-top: 50px;  
+} 
+.secondary_btn a{
+    text-decoration: none;
+    color: #151515;
 }
 
 
