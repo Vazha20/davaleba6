@@ -202,6 +202,37 @@ img{
 #faqs{
     margin-top: 198px;
 }
-
+.faqs_container p:nth-child(2){
+    font-family: 'Neue Machina';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 60px;
+    line-height: 58px;
+    letter-spacing: -3px;
+    color: #151515;
+    margin-top: 40px;
+}
+.faqs_container p:nth-child(3){
+    font-family: 'Neue Machina';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 26px;
+    color: #151515;
+    margin-top: 40px;
+}
+.footer-dark{
+    padding:50px 0;
+    color:#f0f9ff;
+    background-color:black;
+    margin-top: 200px;
+    list-style-type: square;
+    font-family: 'Neue Machina';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 28px;
+    
+}
 
 
